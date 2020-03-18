@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.loading {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.5);
+  line-height: 100vh;
+  z-index: 1;
+}
+li {
+  padding: 2vh 10vw 2vh 10vw;
+  background: rgba(0, 0, 0, 0.1);
+  margin: 5vh 0 1vh 0;
+}
+
+form {
+  padding: 0 10vw;
+}
